@@ -1,0 +1,6 @@
+Car 30 4
+Train 55 6
+Bike 3 2
+Motorcyle 40 3
+Airplane 460 4
+Scooter 2 4
