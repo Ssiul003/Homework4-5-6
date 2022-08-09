@@ -1,0 +1,2 @@
+Write a word count program. Write a program that takes the name of text file from the command line
+arguments. The program should display the number of words that each file contains.
